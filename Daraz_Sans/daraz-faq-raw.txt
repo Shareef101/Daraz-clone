@@ -1,0 +1,280 @@
+Which format should I choose for desktop use?:
+
+
+Daraz is available in either OpenType or TrueType format. Both formats are cross-platform and can be used on a Mac or Windows PC computer. Our advice is to choose the OpenType format unless you are aware of any specific software requirements on your computer that demand the TrueType format. 
+
+
+
+Here are some general guidelines:
+
+
+OpenType (.otf)
+
+
+OpenType fonts are cross-platform compatible and the same font file can be installed and work on both Macintosh and Windows computers.
+
+For further information, please visit:
+
+http://www.adobe.com/type/opentype/
+
+http://www.adobe.com/type/browser/OTReadMe.html
+
+
+TrueType (.ttf)
+
+
+Our TrueType fonts are technically OpenType fonts containing TrueType® outlines, and have a .ttf file extension. TrueType is the original Windows PC font format but it also works on a Macintosh system. TrueType is often required for use with specialist software or on older Windows PC systems.
+
+
+
+Uncompressing Daraz:
+
+
+Daraz is in the .zip format which can be unpacked with WinZip for Windows and StuffIt Expander™ for Macintosh.
+
+Mac
+
+If your browser does not extract Daraz automatically after download, double-click the .zip files to decompress them with Archive Utility. If Archive Utility does not unpack the files you can download and install StuffIt Expander. Drag the .zip files onto Stuffit Expander’s icon or application window to decompress them.
+
+Windows
+
+Recent versions of Windows (XP and later) can unpack zip file archives and self-extracting zip files when you right click on the file and select Extract. Otherwise, use software such as TurboZip, WinZip, or FreeZip.
+How do I install my fonts on a Mac?:
+
+
+Please close down all apps you are intending on using the fonts in.
+
+To activate a font, simply drag the font files into the Fonts folder, located inside the Library folder. 
+
+Macintosh HD > Library > Fonts (A short-cut to the Mactontosh HD is to press ‘shift+cmd+C’ in the finder.)
+
+
+Or
+
+
+You can use Font Book, free with Mac OSX, to install the fonts. More information can be found on the support section of the Apple website.
+
+http://support.apple.com/kb/HT2509
+
+https://support.apple.com/en-ie/guide/font-book/welcome/mac
+
+To install Daraz on Mac OS 8, 9 or OS X Classic, it requires ATM Light 4.6 or later (4.6.2 For Mac OS X Classic).
+
+
+
+How do I install my fonts on a Windows PC?:
+
+
+Please close down all apps you are intending on using the fonts in.
+
+Uncompress the downloaded daraz-1.0.zip file so you can access the font files.
+
+You can copy and paste your fonts into the system’s Fonts folder on any Windows system (Win XP to Win 8). It installs your fonts at once. In order to access the newly installed fonts you have to re-start any application you’ve been using.
+
+
+Windows 7 – 10:
+
+
+Installing your fonts is simple on a Windows 7 – 10 operating system. Navigate to the folder containing the fonts and select any you wish to install. Right-click and select ‘Install’ or ‘Install as shortcut’ from the fly-out menu. In order to access the newly installed fonts, you have to re-start any application you’ve been using.
+
+‘Install’ will create a copy of the selected fonts in the system’s Fonts folder. ‘Install as shortcut’ will create a link to your files and you can access them as long as they remain in the same folder. This saves some space on your hard drive.
+
+
+Windows XP
+
+
+From the Start menu, select the Control Panel and double-click on the Fonts folder icon. Here, select ‘Install New Font’ from the File menu and navigate to the folder containing the fonts. Once there, the fonts appear in the ‘List of Fonts’ field. Select any you wish to install, making sure the ‘Copy Fonts to Fonts Folder’ box is checked and press ‘OK’. In order to access the newly installed fonts you have to re-start any application you’ve been using.
+
+
+
+How do I install my fonts on my phone?:
+
+
+Unfortunately you can not install fonts on smartphones yourself yet. On a smartphone you are left to webfonts which are used on the websites you visit, or on fonts which come with the app you install. Sorry.
+
+
+
+I can’t get Daraz to work? What can I do?:
+
+
+If you have successfully unpacked and installed the fonts, but the fonts are still not available, try the following tips
+
+Some applications need to be restarted after new fonts are installed. Quit the application and start it up again to see if the fonts are available afterwards. 
+Scan the entire font menu. The font may not be where you expect it to be. For example, in Mac OS X, the order may not be strictly alphabetical; some fonts may appear at the end of the font list. 
+Restart the computer. This simple action often solves a number of mysterious problems. 
+Check a different application to see if the font works there. Some software may have special requirements for font installation, so consult the manual. 
+Reduce the number of installed fonts. Having too many fonts installed can create problems. 
+If you use fonts in Adobe applications (InDesign, PhotoShop, Illustrator), and the fonts are missing or appear corrupted, search your computer for all copies of the file AdobeFnt.lst (for example, Adobefnt01.lst ... Adobefnt12.lst) and delete them. The easiest method is to search your hard disk for all .lst files. Delete all found files, and then restart the Adobe application.
+
+http://kb.adobe.com/selfservice/viewContent.do?externalId=
+322050
+
+
+
+If this does not solve the issue… Relax, it will be fine. Please contact us at mail@bobbytannam.com and send as much information as you can.‌
+
+Please don’t forget to mention exactly which fonts you used, how you installed them, which platform you use them on, and which applications they don’t work in. Providing screenshots from your computer is very helpful.
+
+The more details we have, the easier it will be to help. In almost every situation we’re happy to troubleshoot, and generate new fonts for you until the issue is solved.
+
+
+
+Cross Compatibility:
+
+
+Our advice would be to just use 1 font format throughout your entire workflow. We did our best to flatten out cross-platform issues as much as possible, but there will always be some crazy app developers out there who don’t make their Windows app the same way as their OSX app. The question is not ‘are your fonts cross-platform compatible?’, but ‘is your app cross-platform compatible?’.
+
+
+
+Style Linking:
+
+
+Our fonts contain any style-linking by default. We choose this approach to optimise the fonts for a design workspace and to improve cross-platform compatibility.
+
+If you’re in the situation where style-links is problematic, contact us to see if we can provide a custom solution.
+
+
+
+Microsoft Applications:
+
+
+When I try to install a font, my PC say’s that the font is ‘Invalid’. How can I stop this message appearing and install the font?
+
+This message can appear from time to time but rest assured that our font files are completely valid and entirely safe to use. 
+
+To resolve this issue please ensure that you are trying to install the actual font files (named with a ‘.ttf’ or ‘.otf’ suffix in the file name) rather than a .zip file. Also ensure that the font files are stored locally on your actual computer. Often this message appears when trying to install fonts from a server. Additionally, please ensure that you have the nessecary administrative rights to install the font on your system. If not, you should speak to your IT department. Following all of these guidelines will resolve the ‘invalid’ font message. Can I send a Word or Powerpoint document to another PC to edit the document?
+
+Yes, you can send a Word or Powerpoint document to another another computer for editing but to ensure that the fonts will display correctly, the same ‘font format’ must be installed on both computers. If one computer is using the TrueType fonts (.ttf) and another computer is using the OpenType fonts (.otf) some of the font weights may display or print incorrectly.
+
+Additionally, if you have TrueType fonts with embedding permissions you will be able to embed the fonts on a PC in MS Office 2016 for editing on an Apple Mac. However, you cannot embed fonts in MS Office 2016 for Mac, therfore Mac to PC embedded edititing is not possibe at this time.
+
+
+
+Windows 10 > ‘Font cannot be deleted because it is in use’. They are not ‘in use’. What can I do?:
+
+
+It is common for Windows to complain that a ‘Font cannot be deleted because it is in use’ even though it is not in use at all. If you run into this issue you will not be able to delete the font or replace it with a new version in the Control Panels > Fonts folder.
+
+To delete the font, firstly check that you have no open apps at all that may be using the font. To be extra sure restart your computer and try to remove the font on restart. If this does not work, you can delete the font by following these instructions. 
+
+Please note that only a technically proficient System Administrator should follow this procedure.
+
+
+Step 1:
+
+
+Open Control Panel > Fonts Folder 
+Click Organise > Layout > Uncheck ‘Details pane’
+
+Now try to delete the font. If this does not work, proceed to...
+
+Step 2:
+
+
+Windows Search > regedit 
+Agree to enter the Registry Editor 
+Go to >
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsNT\CurrentVersion\Fonts
+
+
+Delete the affected Font File Names from the list of files.
+
+When you have deleted the files, return to the System Fonts folder and refresh it.
+
+The troublesome fonts should now be removed.
+
+
+
+Font kerning is not working in Word. How can I fix that?:
+
+
+Kerning in Word is widely known to be quite temperamental. Don’t worry your precious kerning still exists. The most common fix to this issue has been to activate ‘Kerning’ in Font > Advanced. Ligatures can be turned on here also by activating ‘Ligatures’
+
+
+
+Our cool features don’t work in powerpoint:
+
+
+Powerpoint does not support OpenType GPOS, the app is extremely bad when it comes to supporting font technology. 
+
+
+
+I’m using version 16.9 of Microsoft Office on macOS…:
+
+
+There area number of known bugs with this version of MS Office on Mac…
+
+Text appears garbled or in a different font.
+
+Some fonts are being substituted with other fonts. 
+You may see a message bar saying “We were unable to load all your fonts. Some fonts may be missing.”
+
+
+
+Possible solutions:
+
+
+Check the installed versions of the font. If you have multiple versions, remove all versions and then install only the latest version of the font. 
+If you have a single version of font, check the font file format. If it is displayed as a “PostScript-Type1” font, we recommend you upgrade it to a newer “OpenType” or “TrueType” version of the font. 
+If you have a large number of fonts installed on your system, Microsoft Office apps may not be able to load all the fonts. Please review and prioritise the fonts available on your computer.
+
+
+
+Font cache:
+
+
+What is a Font cache?:
+
+
+The operating system and certain applications use font caches to keep track of the fonts that are installed on you computer.A common issue when installing or updating fonts is that the font cache files on your computer can become corrupted. Typical symptoms include
+
+The font menu does not show your font. 
+The fonts letters do not appear at all. 
+Characters appear garbled and messed up. 
+You type one letter, but a different one appears. 
+Paragraphs do not reflow properly. 
+Your font does not print, or prints wrong or garbled letters.
+
+The best solution for all cases is to delete the font cache files. There is no danger in doing this as these cache files are automatically restored upon system restart.
+
+
+Mac OS:
+
+
+The simple way to reset a Mac’s font cache is to use a third party font cache clearing application such as FontFingler or Font Nuke and follow the applications instructions
+
+Font Nuke: http://jamapi.com/pr/fn/
+FontFingler: http://www.markdouma.com/fontfinagler/
+
+Alternatively, if you are comfortable with the Terminal command line tools use the following instructions
+
+Open Terminal 
+Type: sudo atsutil databases -remove 
+Enter your system password and hit return. 
+Type: atsutil server -shutdown 
+Type: atsutil server -ping
+
+Now it is important that you restart you Mac, or the cache issue will reappear.
+
+
+
+Windows:
+
+
+The font cache files for all Windows operating systems are located here
+
+C:\Windows\System32\FNTCACHE.DAT
+
+Delete the FNTCACHE.DAT file and restart your system.
+
+A new FNTCACHE.DAT file will be created on startup and your font menus will now be refreshed and up to date.
+
+
+
+Which languages are covered by Daraz?:
+
+
+Daraz provides support for over 200 Latin languages:
+
+Abenaki, Afaan, Oromo, Afar, Afrikaans, Albanian, Alsatian, Amis, Anuta, Aragonese, Aranese, Aromanian, Arrernte, Arvanitic Asturian, Atayal, Aymara, Azerbaijani, Bashkir Basque, Belarusian Bemba, Bikol, Bislama, Bosnian, Breton, Cape, Verdean, Creole, Catalan, Cebuano, Chamorro, Chavacano, Chichewa, Chickasaw, Cimbrian, Cofán, Cornish, Corsican, Creek, Crimean, Tatar Croatian, Czech, Danish, Dawan, Delaware, Dholuo, Drehu, Dutch, English, Esperanto, Estonian, Faroese, Fijian, Filipino, Finnish, Folkspraak, French, Frisian, Friulian, Gagauz Galician, Ganda, Genoese, German, Gikuyu, Gooniyandi, Greenlandic (Kalaallisut), Guadeloupean, Creole, Gwich’in, Haitian, Creole, Hän, Hawaiian, Hiligaynon, Hopi, Hotcąk, Hungarian, Icelandic, Ido, Igbo, Ilocano, Indonesian, Interglossa, Interlingua, Irish, Istro-Romanian, Italian, Jamaican, Javanese Jèrriais, Kaingang, Kala, Lagaw Ya, Kapampangan Kaqchikel, Karakalpak Karelian Kashubian, Kikongo, Kinyarwanda, Kiribati, Kirundi, Klingon, Kurdish Ladin, Latin, Latino, sine, Flexione, Latvian, Lithuanian, Lojban, Lombard, Low, Saxon, Luxembourgish, Maasai, Makhuwa, Malay, Maltese, Manx, Māori, Marquesan, Megleno-Romanian, Meriam, Mir, Mirandese, Mohawk, Moldovan, Montagnais, Montenegrin, Murrinh-Patha, Nagamese, Creole, Nahuatl, Ndebele, Neapolitan, Ngiyambaa, Niuean, Noongar, Norwegian, Novial, Occidental, Occitan, Old Icelandic, Old Norse, Onĕipŏt, Oshiwambo, Ossetian Palauan, Papiamento, Piedmontese, Polish, Portuguese, Potawatomi, Q’eqchi’, Quechua, Rarotongan, Romanian, Romansh, Rotokas, Sami (Inari), Sami (Lule), Sami, (Northern), Sami (Southern), Samoan, Sango, Saramaccan, Sardinian, Scottish, Gaelic, Serbian Seri, Seychellois, Creole, Shawnee, Shona, Sicilian, Silesian, Slovak, Slovenian, Slovio Somali, Sorbian (Lower, Sorbian), Sorbian (Upper, Sorbian), Sotho (Northern), Sotho (Southern), Spanish, Sranan, Sundanese, Swahili, Swazi, Swedish, Tagalog, Tahitian, Tetum, Tok, Pisin, Tokelauan, Tongan, Tshiluba, Tsonga, Tswana, Tumbuka, Turkish, Turkmen, Tuvaluan TzotzilUzbek Venetian, Vepsian, Volapük, Võro, Wallisian, Walloon, Waray-Waray, Warlpiri, Wayuu, Welsh, Wik-Mungkan, Wiradjuri, Wolof, Xavante, Xhosa, Yapese, Yindjibarndi, Zapotec, Zarma, Zazaki, Zulu, Zuni.
